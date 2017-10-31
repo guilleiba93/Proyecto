@@ -1,0 +1,14 @@
+C:\Users\guille\source\repos\appGameCenter\appGameCenter\obj\Debug\appGameCenter.csprojResolveAssemblyReference.cache
+C:\Users\guille\source\repos\appGameCenter\appGameCenter\obj\Debug\appGameCenter.csproj.CoreCompileInputs.cache
+C:\Users\guille\source\repos\appGameCenter\appGameCenter\bin\Debug\appGameCenter.exe.config
+C:\Users\guille\source\repos\appGameCenter\appGameCenter\bin\Debug\appGameCenter.exe
+C:\Users\guille\source\repos\appGameCenter\appGameCenter\bin\Debug\appGameCenter.pdb
+C:\Users\guille\source\repos\appGameCenter\appGameCenter\obj\Debug\appGameCenter.exe
+C:\Users\guille\source\repos\appGameCenter\appGameCenter\obj\Debug\appGameCenter.pdb
+C:\Users\Mañana\Desktop\appGameCenter\appGameCenter\obj\Debug\appGameCenter.csprojResolveAssemblyReference.cache
+C:\Users\Mañana\Desktop\appGameCenter\appGameCenter\obj\Debug\appGameCenter.csproj.CoreCompileInputs.cache
+C:\Users\Mañana\Desktop\appGameCenter\appGameCenter\obj\Debug\appGameCenter.exe
+C:\Users\Mañana\Desktop\appGameCenter\appGameCenter\obj\Debug\appGameCenter.pdb
+C:\Users\Mañana\Desktop\appGameCenter\appGameCenter\bin\Debug\appGameCenter.exe.config
+C:\Users\Mañana\Desktop\appGameCenter\appGameCenter\bin\Debug\appGameCenter.exe
+C:\Users\Mañana\Desktop\appGameCenter\appGameCenter\bin\Debug\appGameCenter.pdb

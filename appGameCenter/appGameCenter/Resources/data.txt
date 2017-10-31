@@ -1,0 +1,8 @@
+Jugador1-cagon@gmail.com-Holanda
+Jugador2-benitocamela@jeje.com-Japon
+*+*+*+*
+Juego1-MundoAbierto-2000-PC,XBOXONE,
+Juego2-Accion-2015-MAC,PS4,
+*+*+*+*
+Juego1-Ranking2-Jugador1=150,Juego1-Ranking1-Jugador 2=50,
+Juego2-Ranking2-Jugador1=150,Juego2-Ranking1-Jugador 2=50,
